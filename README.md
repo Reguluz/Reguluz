@@ -18,8 +18,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/static/v1?label=Program&message=CSharp&color=green"/>
   <a href="https://www.reguluz.site/"><img src="https://img.shields.io/static/v1?label=Blog&message=林荫道&color=orange"/></a>
   </p>
-  ![](https://github-readme-stats.vercel.app/api?username=Reguluz&show_icons=true&theme=dark&count_private=true)
 
+![](https://github-readme-stats.vercel.app/api?username=Reguluz&show_icons=true&theme=dark&count_private=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Reguluz&theme=dark&layout=compact)
 
